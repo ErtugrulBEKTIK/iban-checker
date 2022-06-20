@@ -1,7 +1,7 @@
 const isIBAN = require('./index');
 
 test('should insert a valid iban and return true', () => {
-  expect(isIBAN('TR89 3704 0044 0532 0130 00')).toEqual(true);
+  expect(isIBAN('TR81 0001 0011 6582 7773 0750 02')).toEqual(true);
 });
 
 test('should insert a valid iban and return true', () => {
