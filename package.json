@@ -1,0 +1,27 @@
+{
+  "name": "iban-checker",
+  "version": "1.0.0",
+  "description": "This package checks if the given string is valid IBAN.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "iban",
+    "check",
+    "npm"
+  ],
+  "author": "Ertuğrul BEKTİK",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErtugrulBEKTIK/iban-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ErtugrulBEKTIK/iban-checker/issues"
+  },
+  "homepage": "https://github.com/ErtugrulBEKTIK/iban-checker#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
